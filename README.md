@@ -5,7 +5,7 @@ I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at
 
 ### 🖥️ What I've Worked On:
 - I've created several **websites** and collaborated with friends on building projects.
-- I’ve developed **games** on **Roblox**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Roblox_Logo.svg" alt="Roblox Logo" width="20" height="20" /> I’ve developed **games** on **Roblox**
 - From **2019-2021**, I ran some of the **largest FiveM servers in Bulgaria**, writing **Lua scripts** for them.
 - I also helped build a **Minecraft server**, which became the **largest in Bulgaria in 2023**.
 ---
