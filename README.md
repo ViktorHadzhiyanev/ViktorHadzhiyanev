@@ -1,8 +1,7 @@
 # Hi there, I'm Viktor Hadzhiyanev! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=ViktorHadzhiyanev&label=Profile%20Views&color=red&style=for-the-badge)
----
 I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at **Software University**. I’m passionate about web development and game creation, and I aim to practice programming professionally in the future.
-
+--
 ### 🖥️ What I've Worked On:
 - I've created several **websites** and collaborated with friends on building projects.
 - I’ve developed **games** on **Roblox**
