@@ -1,5 +1,5 @@
 # Hi there, I'm Viktor Hadzhiyanev! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=ViktorHadzhiyanev&label=Profile%20views&color=0e75b6&style=flat)
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=ViktorHadzhiyanev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </div>
 I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at **Software University**. I’m passionate about web development and game creation, and I aim to practice programming professionally in the future.
 
 ### 🖥️ What I've Worked On:
