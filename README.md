@@ -4,7 +4,7 @@ I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at
 
 ### 🖥️ What I've Worked On:
 - I've created several **websites** and collaborated with friends on building projects.
-- <img src="https://media.discordapp.net/attachments/658356791339384838/1332201871678378015/roblox-logo-roblox-icon-transparent-free-png.webp?ex=6794652d&is=679313ad&hm=3ae63352eca90edb73b3e0ff7cd22ce6deb0e7069eec4abc9d1a570806f2c220&=&format=webp&width=597&height=597" alt="Roblox" style="height: 20px; vertical-align: middle; margin-right: 5px;"/> I’ve developed **games** on **Roblox**
+- <img src="https://media.discordapp.net/attachments/658356791339384838/1332202487888740362/RBLX.D-c637719c.png?ex=679465c0&is=67931440&hm=26f754ad72c0af54f6297330c200f01919619c86ffaf4e31653eea46ea48444e&=&format=webp&quality=lossless&width=597&height=597" alt="Roblox" style="height: 20px; vertical-align: middle; margin-right: 5px;"/> I’ve developed **games** on **Roblox**
 - From **2019-2021**, I ran some of the **largest FiveM servers in Bulgaria**, writing **Lua scripts** for them.
 - I also helped build a **Minecraft server**, which became the **largest in Bulgaria in 2023**.
 ---
