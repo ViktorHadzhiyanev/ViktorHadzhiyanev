@@ -23,9 +23,11 @@ I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Lua](https://img.shields.io/badge/Lua-5.1-2c2c2c?style=for-the-badge&logo=lua)](https://www.lua.org/)
 [![React](https://img.shields.io/badge/React-16.13.1-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)](https://www.phpmyadmin.net/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+
 
 
 
