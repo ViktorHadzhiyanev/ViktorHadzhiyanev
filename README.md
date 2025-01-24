@@ -6,7 +6,7 @@ I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at
 - I've created several **websites** and collaborated with friends on building projects.
 - <img src="https://media.discordapp.net/attachments/658356791339384838/1332202487888740362/RBLX.D-c637719c.png?ex=679465c0&is=67931440&hm=26f754ad72c0af54f6297330c200f01919619c86ffaf4e31653eea46ea48444e&=&format=webp&quality=lossless&width=597&height=597" alt="Roblox" style="height: 20px; vertical-align: middle; margin-right: 5px;"/> I’ve developed **games** on **Roblox**
 - <img src="https://media.discordapp.net/attachments/658356791339384838/1332202738037293076/FiveM-Logo.png?ex=679465fb&is=6793147b&hm=b1c507de400453d4551b9752966e12626517f8136e1678a2c2b9f4bf4625e424&=&format=webp&quality=lossless&width=1061&height=597" alt="FiveM" style="height: 20px; vertical-align: middle; margin-right: 5px;"/> From **2019-2021**, I ran some of the **largest FiveM servers in Bulgaria**, writing **Lua scripts** for them.
-- I also helped build a **Minecraft server**, which became the **largest in Bulgaria in 2023**.
+- <img src="https://media.discordapp.net/attachments/658356791339384838/1332203149246726175/Block_Grass_Block.webp?ex=6794665d&is=679314dd&hm=021e07b43e415d5740544a33272bf18062189fc9a2d0e8950991a889bd30dd1f&=&format=webp" alt="Minecraft" style="height: 20px; vertical-align: middle; margin-right: 5px;"/> I also helped build a **Minecraft server**, which became the **largest in Bulgaria in 2023**.
 ---
 
 ### 🌐 Projects:
