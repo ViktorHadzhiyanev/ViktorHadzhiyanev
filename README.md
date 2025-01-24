@@ -1,39 +1,29 @@
-<h2 align="left">Hi 👋! My name is Viktor from Bulgaria and I'm a currently studying JS in Software University.</h2>
+# Hi there, I'm Viktor Hajiyanew! 👋
 
-###
+I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at **Software University**. I’m passionate about web development and game creation, and I aim to practice programming professionally in the future.
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/658356791339384838/1332168118914650193/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.webp?ex=679445be&is=6792f43e&hm=9caef664ecc87cbaba193b864150ecd3ea6ee6694a384e2766cf78a904d57fa1&=&format=webp"  />
+### 🖥️ What I've Worked On:
+- I've created several **websites**, collaborated with friends on building projects, and have experience in **video editing**.
+- I’ve developed **games** on **Roblox**, including my very first game:  
+  [OKOEYE - Obby 100 - Super EASY Stages (Play Now)](https://www.roblox.com/games/12441701794/OKOEYE-Obby-100-Super-EASY-Stages-PLAY-NOW)
+- From **2019-2021**, I ran some of the **largest FiveM servers in Bulgaria**, writing **Lua scripts** for them.
+- I also helped build a **Minecraft server**, which became the **largest in Bulgaria in 2023**.
 
-###
+### 🌐 Projects:
+- Check out the website I built with a friend: [https://okoeye.net/](https://okoeye.net/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
+### 📚 My Skills:
+- **JavaScript**  
+- **HTML**  
+- **CSS**  
+- **Java**  
+- **Lua**  
+- **ReactJS**
 
-###
+### 📲 Let's Connect:
+[![Instagram](https://img.shields.io/badge/Instagram-@hadjiyanew-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/hadjiyanew/)
+[![Gmail](https://img.shields.io/badge/Email-viktorhadjiyanew%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:viktorhadjiyanew@gmail.com)
 
-<div align="left">
-  <a href="https://www.instagram.com/hadjiyanew/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="Hadjiyanew" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="viktorhadjiyanew@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+Feel free to customize any part of it!
