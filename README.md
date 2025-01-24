@@ -33,3 +33,6 @@ I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at
 [![Instagram](https://img.shields.io/badge/Instagram-@hadjiyanew-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/hadjiyanew/)
 [![Gmail](https://img.shields.io/badge/Email-viktorhadjiyanew%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:viktorhadjiyanew@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Hadjiyanew-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/Hadjiyanew)
+
+
+<img src="https://raw.githubusercontent.com/ViktorHadzhiyanev/ViktorHadzhiyanev/refs/heads/main/snake.svg" alt="Snake animation" />
