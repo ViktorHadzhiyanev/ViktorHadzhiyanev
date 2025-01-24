@@ -1,4 +1,4 @@
-# Hi there, I'm Viktor Hajiyanew! 👋
+# Hi there, I'm Viktor Hadzhiyanev! 👋
 
 I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at **Software University**. I’m passionate about web development and game creation, and I aim to practice programming professionally in the future.
 
