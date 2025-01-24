@@ -12,7 +12,7 @@ I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at
 - Check out the website I built with a friend: [https://okoeye.net/](https://okoeye.net/)
 - Check out my **Roblox game**: [OKOEYE - Obby 100 - Super EASY Stages (Play Now)](https://www.roblox.com/games/12441701794/OKOEYE-Obby-100-Super-EASY-Stages-PLAY-NOW)
 - In the future **will be added more.**
-- 
+
 ### 🌍 Languages I've Worked With:
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
