@@ -21,9 +21,13 @@ I'm a 20-year-old programmer from Bulgaria, currently studying **JavaScript** at
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 [![Lua](https://img.shields.io/badge/Lua-5.1-2c2c2c?style=for-the-badge&logo=lua)](https://www.lua.org/)
 [![React](https://img.shields.io/badge/React-16.13.1-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)](https://www.phpmyadmin.net/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+
 
 ---
 
